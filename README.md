@@ -47,8 +47,8 @@ If you find our work useful, please consider citing our work:
                Yiqi Wang and
                Yuming Liu and
                Hao Sun and
-               Xing Xie and
-               Yanfang Ye},
+               Yanfang Ye and
+               Xing Xie},
   title     = {Gophormer: Ego-Graph Transformer for Node Classification},
   journal   = {CoRR},
   volume    = {abs/2110.13094},
@@ -59,6 +59,5 @@ If you find our work useful, please consider citing our work:
   timestamp = {Tue, 18 Oct 2022 14:44:48 +0200},
   biburl    = {https://dblp.org/rec/journals/corr/abs-2110-13094.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-}
 }
 ```
